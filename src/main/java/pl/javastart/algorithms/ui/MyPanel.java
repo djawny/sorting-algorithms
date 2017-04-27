@@ -1,4 +1,4 @@
-package pl.javastart.algorithms.gui;
+package pl.javastart.algorithms.ui;
 
 import javax.swing.*;
 import java.awt.*;

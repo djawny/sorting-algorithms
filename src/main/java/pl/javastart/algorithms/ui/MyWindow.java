@@ -1,4 +1,4 @@
-package pl.javastart.algorithms.gui;
+package pl.javastart.algorithms.ui;
 
 import pl.javastart.algorithms.sorting.BubbleSort;
 import pl.javastart.algorithms.sorting.SortingAlgorithm;
@@ -7,7 +7,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
-import java.util.Arrays;
 
 public class MyWindow extends JFrame {
     int[] data;
